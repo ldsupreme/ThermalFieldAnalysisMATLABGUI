@@ -1,0 +1,29 @@
+How to Use:
+
+For Custom Points:
+IMPORTANT - DO IT SEQUENCIALLY AS LAID OUT
+
+Fill in all the required slots, once panel is green, move on to the next panel that turns yellow
+
+If your system doesn't have any KH application, simply press apply to make values for this 0.
+
+Press Solve Button to display the Structure and Temperature Plot
+
+Press Display Nodal Temperatures button to display the values of the nodal temperatures to the table.
+
+All Nodal Temperatures are saved under  NodalTemperatures.txt
+
+For Upload:
+Three files included in ZIP: Example1.xlsx Example2.xlsx CarbideTool.xlsx
+
+Click Upload Button
+
+Insert File Name on blank space
+
+Click Insert File Name Button
+
+Press Solve Button to display the Structure and Temperature Plot
+
+Press Display Nodal Temperatures button to display the values of the nodal temperatures to the table.
+
+Due to the nature of structures that we are plotting and calculating, it is highly recommended to use the .xlsx files as a baseline and fill the needed values in to save time as custom plotting will take a long time. 
